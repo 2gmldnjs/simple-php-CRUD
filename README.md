@@ -2,7 +2,7 @@
 
  XAMPP사용
 
- DB
+ DB   
  CREATE TABLE board (    
     idx INT NOT NULL AUTO_INCREMENT ,   
     name VARCHAR(100) NOT NULL ,   
